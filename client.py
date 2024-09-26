@@ -1,5 +1,6 @@
 import socket
 
+
 # Configuración del cliente
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client_socket.connect(('localhost', 12345))  # Cambia la dirección y el puerto si es necesario
