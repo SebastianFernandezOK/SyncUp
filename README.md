@@ -1,4 +1,3 @@
-Word to PDF Converter
 This project is a document converter that allows you to efficiently and scalably transform Word (.docx) files into PDFs. It is designed to handle multiple conversion requests simultaneously using a socket-based architecture.
 
 Key Features
